@@ -247,6 +247,6 @@ a {
 #check {
   color: gray;
 }
-.driftover{
-  
+a:hover{
+  text-decoration: underline;
 }
