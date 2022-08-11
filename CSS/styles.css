@@ -1,0 +1,252 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.div {
+  background-color: darkblue;
+  height: 100px;
+  width: 250px;
+  font-size: 50px;
+  margin: right;
+  color: white;
+
+  display: flex;
+  flex: 0.43;
+  padding: top;
+  padding: left;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+
+#sports {
+  background-color: red;
+  width: 600px;
+  flex: 1.4;
+  display: flex;
+}
+
+#main {
+  display: flex;
+  flex: 1;
+  width: 100%;
+  height: 30px;
+  ;
+}
+
+.file1 {
+  margin-top: 30px;
+  margin-left: 150px;
+}
+
+.file2 {
+  margin-top: 30px;
+}
+
+#get {
+  font-size: small;
+  margin-top: 50px;
+}
+
+#log {
+  font-size: small;
+  margin-top: 50px;
+
+}
+
+#search {
+  font-size: small;
+  margin-top: 50px;
+}
+
+ul {
+  display: flex;
+  font-size: small;
+  margin-top: 60px;
+  list-style: none;
+
+}
+
+#nav {
+  height: 0;
+}
+
+body {
+  background-color: lightgray;
+}
+
+li {
+  margin-left: 30px;
+}
+
+li a {
+  text-decoration: none;
+  color: black;
+  font-size: 12px;
+
+}
+
+#nav {
+  height: 100px;
+  width: 100%;
+  background-color: white;
+  padding-left: 105px;
+}
+
+#file {
+  background-color: red;
+}
+
+::placeholder {
+  color: white;
+}
+
+#watch {
+  background-color: red;
+  height: 100px;
+  box-sizing: border-box;
+  border-radius: 2px;
+  padding: 15px;
+  color: white;
+  margin-left: 350px;
+}
+
+.file1 {
+  margin-left: 197px;
+}
+
+input {
+  border: 1px solid white;
+}
+
+#init {
+  height: 350px;
+  width: 70%;
+  background-color: white;
+  display: flex;
+  padding: 15px;
+  margin-left: 150px;
+}
+
+span#tennis {
+  font-size: small;
+  color: blue;
+}
+
+span#serena {
+  font-size: x-large;
+  font-family: 'Times New Roman', Times, serif;
+  color: black;
+  font-weight: bolder;
+}
+
+#will {
+  width: 50%;
+}
+
+span#angle1 {
+  font-size: small;
+  color: black;
+}
+
+
+
+#power2 {
+  height: 340px;
+  width: 325px;
+  background-color: white;
+  box-sizing: content-box;
+  display: flex;
+}
+
+#chop {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+#into {
+  height: 350px;
+  width: 955px;
+  margin-left: 150px;
+  display: flex;
+}
+
+.basket {
+  height: 340px;
+  width: 300px;
+  margin: 5px 10px 5px;
+  background-color: white;
+}
+
+.ball {
+  height: 200px;
+  width: 290px;
+
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+#date {
+  font-size: x-large;
+  color: gray;
+}
+
+#top {
+  font-size: xx-large;
+  color: gray;
+}
+
+.you {
+  margin-top: 10px;
+  margin-left: 15px;
+}
+
+#foot {
+  font-size: small;
+  color: blue;
+}
+
+#trans {
+  font-size: medium;
+  color: gray;
+}
+
+#rum {
+  font-size: smaller;
+  color: gray;
+}
+
+#paper {
+  font-size: smaller;
+  color: gray;
+}
+
+#box {
+  font-size: small;
+  color: blue;
+}
+
+#aj {
+  font-size: x-large;
+  color: gray
+}
+
+#fash {
+  font-size: small;
+  color: blue;
+}
+
+#crick {
+  font-size: larger;
+  color: gray
+}
+
+#check {
+  color: gray;
+}
+.driftover{
+  
+}
